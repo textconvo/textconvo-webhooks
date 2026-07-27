@@ -1,0 +1,8 @@
+{
+  "event": "lead.reply",
+  "message_id": "msg_reply123",
+  "contact_id": "cnt_xyz789",
+  "phone": "+15035551234",
+  "message_text": "Yes, send the quote",
+  "received_at": "2026-07-20T10:18:00Z"
+}
