@@ -1,0 +1,7 @@
+{
+  "event": "lead.accepted",
+  "lead_id": "lead_abc123",
+  "contact_id": "cnt_xyz789",
+  "phone": "+15035551234",
+  "lead_external_id": "crm_00042"
+}
