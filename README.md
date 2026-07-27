@@ -119,6 +119,12 @@ A receiver that accepts this and rejects the same request with a tampered body i
 | [textconvo-openapi](https://github.com/textconvo/textconvo-openapi) | Webhook payloads as OpenAPI 3.1 schemas |
 | [textconvo-sample-apps](https://github.com/textconvo/textconvo-sample-apps) | Receivers inside complete demo apps |
 
+## See it live
+
+Submit the [contact form](https://textconvo.ai/contact-us) and you get a direct line to **Ria**, the TextConvo AI orchestrator &mdash; call her for a live voice demo, or text her and watch the SMS AI reply in real time. A human follows up within one business day, and the same form is how API credentials, a source key, and a webhook secret are issued.
+
+Handed a TextConvo QR code at an event or in a demo? Scanning it opens the same conversation. The form is simply the path that works for everyone.
+
 ## Contributing
 
 A receiver for your framework would be genuinely useful — FastAPI, Rails, Laravel, Spring, ASP.NET, Cloudflare Workers. See [CONTRIBUTING.md](https://github.com/textconvo/.github/blob/main/CONTRIBUTING.md).
