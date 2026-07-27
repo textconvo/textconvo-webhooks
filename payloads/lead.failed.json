@@ -1,0 +1,8 @@
+{
+  "event": "lead.failed",
+  "message_id": "msg_abc123",
+  "contact_id": "cnt_xyz789",
+  "phone": "+15035551234",
+  "failed_at": "2026-07-20T10:12:00Z",
+  "error_code": "carrier_rejected"
+}
