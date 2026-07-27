@@ -1,0 +1,7 @@
+{
+  "event": "lead.delivered",
+  "message_id": "msg_abc123",
+  "contact_id": "cnt_xyz789",
+  "phone": "+15035551234",
+  "delivered_at": "2026-07-20T10:12:00Z"
+}
