@@ -1,0 +1,7 @@
+{
+  "event": "lead.opt_out",
+  "contact_id": "cnt_xyz789",
+  "phone": "+15035551234",
+  "channel": "sms",
+  "opted_out_at": "2026-07-20T10:25:00Z"
+}
