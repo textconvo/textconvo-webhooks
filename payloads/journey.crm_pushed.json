@@ -1,0 +1,10 @@
+{
+  "event": "journey.crm_pushed",
+  "contact_id": "cnt_xyz789",
+  "crm_key": "hubspot",
+  "outcome": "completed",
+  "pushed_at": "2026-07-20T11:30:00Z",
+  "lead_id": "lead_abc123",
+  "crm_contact_id": "473031564003",
+  "fields_synced": ["textconvo_journey_status", "textconvo_outcome"]
+}
